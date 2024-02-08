@@ -1,0 +1,16 @@
+H:\CS161\RestaurantSelector\bin\Debug\net8.0-windows\RestaurantSelector.exe
+H:\CS161\RestaurantSelector\bin\Debug\net8.0-windows\RestaurantSelector.deps.json
+H:\CS161\RestaurantSelector\bin\Debug\net8.0-windows\RestaurantSelector.runtimeconfig.json
+H:\CS161\RestaurantSelector\bin\Debug\net8.0-windows\RestaurantSelector.dll
+H:\CS161\RestaurantSelector\bin\Debug\net8.0-windows\RestaurantSelector.pdb
+H:\CS161\RestaurantSelector\obj\Debug\net8.0-windows\RestaurantSelector.Form1.resources
+H:\CS161\RestaurantSelector\obj\Debug\net8.0-windows\RestaurantSelector.csproj.GenerateResource.cache
+H:\CS161\RestaurantSelector\obj\Debug\net8.0-windows\RestaurantSelector.GeneratedMSBuildEditorConfig.editorconfig
+H:\CS161\RestaurantSelector\obj\Debug\net8.0-windows\RestaurantSelector.AssemblyInfoInputs.cache
+H:\CS161\RestaurantSelector\obj\Debug\net8.0-windows\RestaurantSelector.AssemblyInfo.cs
+H:\CS161\RestaurantSelector\obj\Debug\net8.0-windows\RestaurantSelector.csproj.CoreCompileInputs.cache
+H:\CS161\RestaurantSelector\obj\Debug\net8.0-windows\RestaurantSelector.dll
+H:\CS161\RestaurantSelector\obj\Debug\net8.0-windows\refint\RestaurantSelector.dll
+H:\CS161\RestaurantSelector\obj\Debug\net8.0-windows\RestaurantSelector.pdb
+H:\CS161\RestaurantSelector\obj\Debug\net8.0-windows\RestaurantSelector.genruntimeconfig.cache
+H:\CS161\RestaurantSelector\obj\Debug\net8.0-windows\ref\RestaurantSelector.dll
